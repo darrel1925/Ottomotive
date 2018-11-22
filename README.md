@@ -28,7 +28,7 @@ You will need:
 6.) You will aslo need need to download Smartcar's [Python SDK](https://github.com/smartcar/python-sdk)<br /><br />
     
 ### Installing
-In Termnal:<br />
+In your Command Line:<br />
 1.) Navigate to the directoy where the file is saved:<br />
 2.) Begin the program<br /><br />
 
